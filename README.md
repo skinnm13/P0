@@ -1,6 +1,6 @@
 # When Delivery Promises Break: Olist Data Warehouse
 
-**Michael Skinner and Sukman, Project 0.** 
+**Michael Skinner and Sukhman Brar, Project 0.** 
 ## The business case
 
 Our client is the Head of Marketplace Operations at a Brazilian online marketplace. The company is fictional, and the data is Olist's public 2016–2018 orders. Late deliveries are the client's biggest source of poor reviews. Before funding a logistics fix, the client wants to know where lateness is concentrated, how much it hurts customer satisfaction, and which sellers should be reviewed first. We loaded the marketplace's orders into a cloud data warehouse and answered five questions from it:
